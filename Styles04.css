@@ -1,0 +1,16 @@
+body{
+    background: rgb(173, 242, 247);
+}
+#elemento1{
+    color:red;
+    font-weight: bold;
+}
+ul li#elemento1{
+    font-size: 2rem;
+}
+#titulo{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
